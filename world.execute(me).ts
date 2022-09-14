@@ -24,7 +24,7 @@ import {
 // Switch on the power line
 // Remember to put on
 // PROTECTION
-export default class GodGodDrinksTypeScript {
+export default class GodDrinksTypeScript {
 
     // Lay down your pieces
     // And let's begin

@@ -1,5 +1,5 @@
-import GodGodDrinksTypeScript from "./world.execute(me)";
+import GodDrinksTypeScript from "./world.execute(me)";
 import { sing } from "./objects";
 
-GodGodDrinksTypeScript.main();
+GodDrinksTypeScript.main();
 sing();
