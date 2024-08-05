@@ -10,7 +10,7 @@ import {
     Thing,
     Tomato,
     World,
-} from "./objects";
+} from "./utils";
 
 
 
